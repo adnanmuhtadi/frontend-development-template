@@ -40,6 +40,8 @@ The intended type of users which this website is targeted for are ...
 
     #### Home Page
     
+    
+    #### Master Wireframes
     - Master Wireframes - [View](#)
 
 ## Features
@@ -65,16 +67,21 @@ The features that will be utilised in this project will be as follows:
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - CSS3 was used to provide my website with style
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Applications/Programs Used
 
-1. [Google Chrome:](https://www.google.co.uk/intl/en_uk/chrome/)
-    - Default browser used to visually display the build process as well as utilising Chrome Dev Tools to assist where needed.
+#### Frameworks
 1. [Bootstrap:](https://getbootstrap.com/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
+
+#### Library
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+#### Applications/Programs Used
+1. [Google Chrome:](https://www.google.co.uk/intl/en_uk/chrome/)
+    - Default browser used to visually display the build process as well as utilising Chrome Dev Tools to assist where needed.
 1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -92,7 +99,7 @@ The features that will be utilised in this project will be as follows:
 
 ### Validation
 
-On code completion, i ensured my code was validated with no snytax errors. I used [W3C Markup Validator](https://validator.w3.org/) for HTML5 and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) for CSS3 to ensure my code is W3C Compliant.
+On code completion, I ensured my code was validated with no snytax errors. I used [W3C Markup Validator](https://validator.w3.org/) for HTML5 and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) for CSS3 to ensure my code is W3C Compliant.
 
 #### Results
 
@@ -122,8 +129,8 @@ index.html| [Initial Errors](#) | [Resolved Errors](#) | ...
 
 The project was deployed to Github Pages using the following method:
 
-1.  Log into Github and found the [Project Repository](https://github.com/adnanmuhtadi/milestone-project-1)
-1.  At the top of the Repository, i clicked the "[Settings](https://github.com/adnanmuhtadi/milestone-project-1/settings)" option on the menu.
+1.  Log into Github and found the [Project Repository](#)
+1.  At the top of the Repository, i clicked the "[Settings](#)" option on the menu.
 1.  I scrolled down the page until i found "Github Pages" section.
 1.  Under the "Source" section, a drop-down option with the result of "None" is visible. I clicked on the drop-down option and selected "Master Brand".
 1.  The page would automatically refresh itself to the top of the page.
@@ -156,5 +163,4 @@ Within brackets (Editing tool), I was able to download a plugin which enabled me
 
 
 ### Acknowledgements
-
 
