@@ -1,0 +1,31 @@
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700|Montserrat:100,200,300,400,500,600,700');*/
+
+* {
+}
+
+/*------------------------------ (Name of Section)*/
+
+/*------------------------------ Media Query for Large Laptop size device in a vertical format */
+@media only screen and (max-width: 1024px) {
+
+}
+
+/*------------------------------ Media Query for tablet size device in a vertical format */
+@media only screen and (max-width: 768px) {
+
+}
+
+/*------------------------------ Media Query for mobile phone size device in a vertical format */
+@media only screen and (max-width: 425px) {
+
+}
+
+/*------------------------------ Media Query for mobile phone size device in a vertical format */
+@media only screen and (max-width: 375px) {
+
+}
+
+/*------------------------------ Media Query for mobile phone size device in a vertical format */
+@media only screen and (max-width: 320px) {
+
+}
